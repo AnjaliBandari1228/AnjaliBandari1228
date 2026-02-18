@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
 
-<!--
-**AnjaliBandari1228/AnjaliBandari1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Azure Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+Microsoft Certified Azure Administrator (AZ-104) with hands-on experience in deploying and managing cloud infrastructure on Microsoft Azure. Passionate about building scalable cloud environments and implementing CI/CD automation using Azure DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+**Cloud Platform:** Microsoft Azure  
+**Compute:** Azure Virtual Machines  
+**Networking:** VNets, Subnets, NSG  
+**Storage:** Azure Storage Accounts, Blob Storage  
+**Security:** Azure RBAC  
+**DevOps:** Azure DevOps, Git, CI/CD  
+**Infrastructure as Code:** ARM Templates, Terraform (Beginner)  
+**Scripting:** Azure CLI, PowerShell  
+**Operating Systems:** Windows, Linux  
+
+---
+
+## 📂 Projects
+
+🔹 Azure Infrastructure Deployment using ARM Templates  
+🔹 CI/CD Pipeline Automation using Azure DevOps YAML  
+🔹 eShopOnWeb Deployment Practice  
+
+---
+
+## 📜 Certification
+
+✔ Microsoft Azure Administrator (AZ-104)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: anjalibandari1713@gmail.com  
+🔗 LinkedIn:(https://www.linkedin.com/in/anjali-bandari-41301b348)
