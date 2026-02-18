@@ -22,9 +22,9 @@ Microsoft Certified Azure Administrator (AZ-104) with hands-on experience in dep
 
 ## 📂 Projects
 
-🔹 Azure Infrastructure Deployment using ARM Templates  
-🔹 CI/CD Pipeline Automation using Azure DevOps YAML  
-🔹 eShopOnWeb Deployment Practice  
+- Azure Infrastructure Deployment using ARM Templates  
+- CI/CD Pipeline Automation using Azure DevOps YAML  
+- eShopOnWeb Deployment Practice  
 
 ---
 
@@ -37,4 +37,4 @@ Microsoft Certified Azure Administrator (AZ-104) with hands-on experience in dep
 ## 📫 Connect With Me
 
 📧 Email: anjalibandari1713@gmail.com  
-🔗 LinkedIn:(https://www.linkedin.com/in/anjali-bandari-41301b348)
+🔗 LinkedIn: https://www.linkedin.com/in/anjali-bandari-41301b348
